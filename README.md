@@ -1,5 +1,25 @@
-### Hi there 👋
 
+<div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+</div>
+
+<h2>안녕하세요. 계발하는 프론트엔드 개발자 남윤지 입니다.</h2>
+<h5>한 눈에 들어오는 유저 인터페이스와 UI/UX 에 관심이 많고 스스로 고민하여 문제를 해결하는 과정을 즐깁니다. <br/>디자인부터 개발까지 다양하고 새로운 경험들을 두려워하지 않고 새로운 기술을 배우고 응용하는 것을 좋아하고 빠르게 습득합니다.  <br/>팀 프로젝트에서 팀원 들과 활발하게 커뮤니케이션 하며 협업한 경험이 있습니다. 협업에서 이루어지는 다양한 커뮤니케이션을 중요시합니다.</h5>
+
+<div align=center>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@vllyj2260/)](https://velog.io/@vllyj2260/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nnnamn_yj/)](https://www.instagram.com/nnnamn_yj/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yj607252@gmail.com)](mailto:yj607252@gmail.com)
+</div>
+
+<!--
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza) 
+-->
 <!--
 **YunjiNam/YunjiNam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
