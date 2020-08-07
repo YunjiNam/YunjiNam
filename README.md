@@ -17,7 +17,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@vllyj2260/)](https://velog.io/@vllyj2260/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nnnamn_yj/)](https://www.instagram.com/nnnamn_yj/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yj607252@gmail.com)](mailto:yj607252@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=velog&link=https://www.notion.so/Nam-YunJi-f5f9d98543314551ac64b9da37a48e58/)](https://www.notion.so/Nam-YunJi-f5f9d98543314551ac64b9da37a48e58/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Nam-YunJi-f5f9d98543314551ac64b9da37a48e58/)](https://www.notion.so/Nam-YunJi-f5f9d98543314551ac64b9da37a48e58/) 
 </div>
 
 <!--
