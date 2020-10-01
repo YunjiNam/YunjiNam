@@ -7,11 +7,7 @@
 </div>
 
 <h2>안녕하세요. 계발하는 프론트엔드 개발자 남윤지 입니다.👩‍💻</h2>
-<p>
-한 눈에 들어오는 유저 인터페이스와 UI/UX 에 관심이 많고 스스로 고민하여 문제를 해결하는 과정을 즐기는 공부하는 개발자입니다.<br/>
-디자인부터 개발까지 다양하고 새로운 경험들을 두려워하지 않고 새로운 기술을 배우고 응용하는 것을 좋아하는 디발자입니다.<br/>
-협업에서 이루어지는 다양한 커뮤니케이션을 중요시하는 소통하는 개발자 입니다.<br/>
-</p>
+
 <div>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@vllyj2260/)](https://velog.io/@vllyj2260/) 
