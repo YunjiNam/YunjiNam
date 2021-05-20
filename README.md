@@ -6,7 +6,10 @@
 	
 </div>
 
-<h2>안녕하세요. 계발하는 프론트엔드 개발자 남윤지 입니다.👩‍💻</h2>
+<h2>Nam Yun Ji👩‍💻</h2>
+
+<p>🎬 Kyunghee Univ. Digital Art and Design<br>💻 Frontend Developer<br>📱 Mobile App Developer</p>
+
 <h3> Tech stack </h3>
 <p>
 	<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
@@ -17,7 +20,7 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@vllyj2260/)](https://velog.io/@vllyj2260/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yj607252@gmail.com)](mailto:yj607252@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Nam-YunJi-f5f9d98543314551ac64b9da37a48e58/)](https://www.notion.so/Nam-YunJi-f5f9d98543314551ac64b9da37a48e58/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Nam-YunJi-f5f9d98543314551ac64b9da37a48e58/)](https://www.notion.so/YunJi-Nam-f5f9d98543314551ac64b9da37a48e58/) 
 </div>
 <!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nnnamn_yj/)](https://www.instagram.com/nnnamn_yj/) -->
 <!--
