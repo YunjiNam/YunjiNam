@@ -19,8 +19,7 @@
   <div>
    
   [![Tech Blog Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Notion&logoColor=white&link=https://dull-break-11a.notion.site/YunJi-Nam-f5f9d98543314551ac64b9da37a48e58)](https://dull-break-11a.notion.site/YunJi-Nam-f5f9d98543314551ac64b9da37a48e58) 
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ndbsen722@gmail.com)](mailto:ndbsen722@gmail.com) 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@vllyj2260/)](https://velog.io/@vllyj2260/) 
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ndbsen722@gmail.com)](mailto:ndbsen722@gmail.com)  
   </div>
   <!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nnnamn_yj/)](https://www.instagram.com/nnnamn_yj/) -->
   <!--
