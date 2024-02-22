@@ -24,5 +24,5 @@
   <h3> Contact </h3>
   <div>
    
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ndbsen722@gmail.com)](mailto:ndbsen722@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunji-nam-66a455206/)](https://www.linkedin.com/in/yunji-nam-66a455206/) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Notion&logoColor=white&link=https://dull-break-11a.notion.site/c5a449c8a4c946dcb980bb11dd3faf9b?pvs=4&target=_blank)](https://dull-break-11a.notion.site/c5a449c8a4c946dcb980bb11dd3faf9b?pvs=4)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ndbsen722@gmail.com)](mailto:ndbsen722@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunji-nam-66a455206/)](https://www.linkedin.com/in/yunji-nam-66a455206/) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Notion&logoColor=white&link=https://dull-break-11a.notion.site/c5a449c8a4c946dcb980bb11dd3faf9b?pvs=4)](https://dull-break-11a.notion.site/c5a449c8a4c946dcb980bb11dd3faf9b?pvs=4)
   </div>
