@@ -15,10 +15,10 @@
 ### Some technologies I like working with
 
 ```json
-["Html", "Javscript", "Typescript", "React", "Three.js"]
-["Redux", "Redux-Saga", "Redux-Toolkit", "React Query"]
-["CSS", "Sass", "Styled-components", "Emotion"]
-["Flutter", "React-Native"]
+["Html", "Javscript", "Typescript", "React.js", "Next.js", "Three.js"]
+["Redux", "Redux-Saga", "Redux-Toolkit", "Tanstack query", "Zustand"]
+["CSS", "Styled-components", "Emotion", "Tailwindcss", "Sass"]
+["React-Native", "Flutter"]
 ```
       
   <h3> Contact </h3>
