@@ -1,10 +1,6 @@
 
 
-<div>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunjiNam)](https://hits.seeyoufarm.com) 
-      
-  </div>
+
   
   <h2>Nam Yun Ji👩‍💻</h2>
   
@@ -15,7 +11,7 @@
 ### Some technologies I like working with
 
 ```json
-["Html", "Javscript", "Typescript", "React.js", "Next.js", "Three.js"]
+["Html", "Javascript", "Typescript", "React.js", "Next.js", "Three.js"]
 ["Redux", "Redux-Saga", "Redux-Toolkit", "Tanstack query", "Zustand"]
 ["CSS", "Styled-components", "Emotion", "Tailwindcss", "Sass"]
 ["React-Native", "Flutter"]
